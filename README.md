@@ -5,6 +5,7 @@ This respository contains the design files necessary to print a custom GCR Canar
 The \*.zip file ( [MadeMill-GCRCanaryCase-v1.zip](/MadeMill-GCRCanaryCase-v1.zip) ) file includes a STL files and a SLDPRT file. 
 
 The 3D printer that was used is a [Tinkerine Ditto Pro](https://store.tinkerine.com/) (Canadian, Vancouver based company).
+![Tinkerine Ditto Pro](/images/TinkerineDittoPro.png "Tinkerine Ditto Pro")
 
 
 
